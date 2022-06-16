@@ -1,8 +1,11 @@
 www.patika.dev
+
 Proje 2
+
 [16,21,11,8,12,22] -> Merge Sort
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
 Big-O gösterimini yazınız.
 
 Answers
@@ -12,6 +15,7 @@ Answers
 Divide array by 2 until every group has 1 or 2 elements
 
 16 21 11 | 8 12 22 => 1st step
+
 16 | 21 11 || 8 | 12 22 => 2nd step
 
 Sort the elements of each group
